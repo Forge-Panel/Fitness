@@ -4,3 +4,6 @@
 [submodule "Widgets"]
 	path = Widgets
 	url = git@github.com:Forge-Panel/Fitness-Widgets.git
+[submodule "App"]
+	path = App
+	url = git@github.com:Forge-Panel/Fitness-App.git
