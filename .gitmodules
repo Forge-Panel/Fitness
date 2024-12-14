@@ -1,0 +1,6 @@
+[submodule "Service"]
+	path = Service
+	url = git@github.com:Forge-Panel/Fitness-Service.git
+[submodule "Widgets"]
+	path = Widgets
+	url = git@github.com:Forge-Panel/Fitness-Widgets.git
