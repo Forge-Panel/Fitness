@@ -1,0 +1,10 @@
+services:
+  database:
+    image: postgres
+    container_name: Forge_Fitness_Database
+    ports:
+      - 5430:5432
+    environment:
+      - POSTGRES_USER=db
+      - POSTGRES_PASSWORD=db
+      - POSTGRES_DB=db
