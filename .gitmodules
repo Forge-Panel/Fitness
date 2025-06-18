@@ -7,3 +7,6 @@
 [submodule "App"]
 	path = App
 	url = git@github.com:Forge-Panel/Fitness-App.git
+[submodule "Admin-Panel"]
+	path = Admin-Panel
+	url = git@github.com:Forge-Panel/Fitness-Admin-Panel.git
