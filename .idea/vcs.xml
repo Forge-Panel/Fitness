@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Admin-Panel" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/App" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Widgets" vcs="Git" />
