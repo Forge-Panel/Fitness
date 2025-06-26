@@ -1,0 +1,7 @@
+projects:
+  App:
+    schema: http://localhost:8001/api/app/graphql
+    documents: App/**/*.{graphql,js,ts,vue}
+  Admin-Panel:
+    schema: http://localhost:8000/api/admin/graphql
+    documents: Admin-Panel/**/*.{graphql,js,ts,vue}

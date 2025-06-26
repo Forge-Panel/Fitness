@@ -3,7 +3,7 @@ services:
     image: postgres
     container_name: Forge_Fitness_Database
     ports:
-      - 5432:5432
+      - 5433:5432
     environment:
       - POSTGRES_USER=db
       - POSTGRES_PASSWORD=db
